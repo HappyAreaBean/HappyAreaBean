@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 🌠</h1>
+<h1 align="center">Hi there! :) 🌠</h1>
 
 <p align="center">
   <a href="https://youtube.com/happyareabean" target="_blank"> <!-- Youtube -->
